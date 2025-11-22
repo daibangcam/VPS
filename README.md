@@ -181,3 +181,17 @@ https://archive.org/download/windowsserver2016datacenterevaluationcopy/Windows_S
 https://download.microsoft.com/download/7/5/E/75EC4E54-5B02-42D6-8879-D8D3A25FBEF7/7601.17514.101119-1850_x64fre_server_eval_en-us-GRMSXEVAL_EN_DVD.iso
 
 ---
+
+[VPS Linux 12GB RAM với Google Cloud Shell](https://youtu.be/PAOyLx2_Zwk)
+
+[VPS Linux 12GB RAM với Google Colab](https://youtu.be/rKCxVrKCUQI)
+
+[VPS Win10 64bit 8GB RAM với Google Colab](https://youtu.be/WDpPf0ZWKAE)
+
+[VPS Win7 32bit 8GB RAM với Google Cloud Shell](https://youtu.be/mWc11k2FVZs)
+
+[VPS Win7 32bit 8GB RAM với Google Colab](https://youtu.be/7bFw-uI6CqY)
+
+[VPS WinXP 32bit 3GB RAM với Google Cloud Shell](https://youtu.be/5L3E08QNRLY)
+
+[VPS WinXP 32bit 3GB RAM với Google Colab](https://youtu.be/xT4EftcFaZs)
